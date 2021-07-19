@@ -1,2 +1,4 @@
-Coffee 2.99 150 cal
-Donuts 4.99 1500 cal
+Coffee 		2.99 	150 cal
+Donuts 		4.99 	1500 cal
+Mocha 		3.15  	200 cal
+Espresso 	3.25	250 cal
